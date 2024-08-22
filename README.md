@@ -3,7 +3,7 @@ Open VINO 모델을 이용한 구현 토이 프로젝트
 
 <br> <br> <br> 
 
-## 프로젝트 기획사항:
+## 🐾 프로젝트 기획:
 
 **유니버셜 디자인을 추구하는 기획자/디자이너를 위한 프로그램**
 
@@ -16,7 +16,7 @@ Open VINO 모델을 이용한 구현 토이 프로젝트
 
 <br> <br> <br> 
 
-## 주요 기능:
+## 🐾 주요 기능:
 
 - Red-Green Color Blindness 적녹색약자을 위해 색상 변환 후 화면 출력
 - Blue-Yellow Color Blindness 청-황 색약자를 위해 색상 변환 후 화면 출력 
@@ -26,13 +26,13 @@ Open VINO 모델을 이용한 구현 토이 프로젝트
 
 <br> <br> <br> 
 
-## 사용 모델:
+## 🐾 사용 모델:
 
 [colorization_demo](https://docs.openvino.ai/2024/omz_demos_colorization_demo_python.html)
 
 <br> <br> <br> 
 
-## 시현 결과 
+## 🐾 시현 결과 
 ![스크린샷(967)](https://github.com/user-attachments/assets/bae34f9a-ce8c-4107-be31-8b7034a1ae64)
 시현 결과 이미지 
 
