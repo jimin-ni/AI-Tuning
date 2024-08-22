@@ -1,5 +1,5 @@
 # AI-Tuning
-Open VINO 모델을 이용한 구현 토이 프로젝트
+[Open VINO](https://docs.openvino.ai/2024/index.html) 모델을 이용한 구현 토이 프로젝트
 
 <br> <br> <br> 
 
