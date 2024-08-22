@@ -14,27 +14,3 @@ Open VINO 모델을 이용한 구현 토이 프로젝트
 색각이상자도 잘 체험할 수 있는 UI 인지, 변환된 색상을 통해 확인할 수 있습니다. <br> 
 자신이 기획한 ui 혹은 이미 많은 사용자들이 사용중인 웹페이지 등을 캡쳐해 본 프로그램을 실행시키면 전체 비율 중 몇 픽셀 정도의 색상 변환이 이루어 졌는지 확인할 수 있어 얼마나 사용자 친화적인지 확인할 수 있습니다. 
 
-<br> <br> <br> 
-
-## 🐾 주요 기능:
-
-- Red-Green Color Blindness 적녹색약자을 위해 색상 변환 후 화면 출력
-- Blue-Yellow Color Blindness 청-황 색약자를 위해 색상 변환 후 화면 출력 
-- 출력 결과 이미지를 원하는 시간동안 열어두기
-- 결과물 출력 윈도우 크기를 화면에 적합한 크기로 수정
-- 수정된 픽셀의 수와 변환 비율을 전체 픽셀 수와 비교해 콘솔에 출력
-
-<br> <br> <br> 
-
-## 🐾 사용 모델:
-
-[colorization_demo](https://docs.openvino.ai/2024/omz_demos_colorization_demo_python.html)
-
-<br> <br> <br> 
-
-## 🐾 시현 결과 
-![스크린샷(967)](https://github.com/user-attachments/assets/bae34f9a-ce8c-4107-be31-8b7034a1ae64)
-시현 결과 이미지 
-
-![image](https://github.com/user-attachments/assets/f04b9831-ba7b-4d3d-af82-d635dd81987d)
-시현 결과 콘솔로그 
