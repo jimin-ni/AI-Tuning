@@ -33,5 +33,6 @@ Open VINO 모델을 이용한 구현 토이 프로젝트
 <br> <br> <br> 
 
 ## 시현 결과 
+![스크린샷(967)](https://github.com/user-attachments/assets/bae34f9a-ce8c-4107-be31-8b7034a1ae64)
 
-![Uploading 스크린샷(967).png…]()
+
